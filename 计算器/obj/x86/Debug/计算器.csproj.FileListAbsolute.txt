@@ -1,0 +1,47 @@
+c:\users\administrator\documents\visual studio 2010\Projects\计算器\计算器\bin\Debug\计算器.exe
+c:\users\administrator\documents\visual studio 2010\Projects\计算器\计算器\bin\Debug\计算器.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\计算器\计算器\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\计算器\计算器\obj\x86\Debug\计算器.Form1.resources
+c:\users\administrator\documents\visual studio 2010\Projects\计算器\计算器\obj\x86\Debug\计算器.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\计算器\计算器\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\计算器\计算器\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\计算器\计算器\obj\x86\Debug\计算器.exe
+c:\users\administrator\documents\visual studio 2010\Projects\计算器\计算器\obj\x86\Debug\计算器.pdb
+C:\Documents and Settings\Administrator\桌面\计算器\计算器\obj\x86\Debug\计算器.exe
+C:\Documents and Settings\Administrator\桌面\计算器\计算器\obj\x86\Debug\计算器.pdb
+C:\Documents and Settings\Administrator\桌面\计算器\计算器\bin\Debug\计算器.exe
+C:\Documents and Settings\Administrator\桌面\计算器\计算器\bin\Debug\计算器.pdb
+C:\Documents and Settings\Administrator\桌面\计算器\计算器\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\计算器\计算器\obj\x86\Debug\计算器.Form1.resources
+C:\Documents and Settings\Administrator\桌面\计算器\计算器\obj\x86\Debug\计算器.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\计算器\计算器\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\计算器\计算器\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\计算器\计算器\obj\x86\Debug\计算器.exe
+C:\Users\Administrator\Desktop\计算器\计算器\obj\x86\Debug\计算器.pdb
+C:\Users\Administrator\Desktop\计算器\计算器\bin\Debug\计算器.exe
+C:\Users\Administrator\Desktop\计算器\计算器\bin\Debug\计算器.pdb
+C:\Users\Administrator\Desktop\计算器\计算器\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\计算器\计算器\obj\x86\Debug\计算器.Form1.resources
+C:\Users\Administrator\Desktop\计算器\计算器\obj\x86\Debug\计算器.Properties.Resources.resources
+C:\Users\Administrator\Desktop\计算器\计算器\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\计算器\计算器\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WinForms\计算器\计算器\obj\x86\Debug\计算器.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WinForms\计算器\计算器\obj\x86\Debug\计算器.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WinForms\计算器\计算器\bin\Debug\计算器.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WinForms\计算器\计算器\bin\Debug\计算器.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WinForms\计算器\计算器\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WinForms\计算器\计算器\obj\x86\Debug\计算器.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WinForms\计算器\计算器\obj\x86\Debug\计算器.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WinForms\计算器\计算器\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WinForms\计算器\计算器\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Project\WinForms\计算器\计算器\obj\x86\Debug\计算器.exe
+E:\Project\WinForms\计算器\计算器\obj\x86\Debug\计算器.pdb
+E:\Project\WinForms\计算器\计算器\bin\Debug\计算器.exe
+E:\Project\WinForms\计算器\计算器\bin\Debug\计算器.pdb
+E:\Project\WinForms\计算器\计算器\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Project\WinForms\计算器\计算器\obj\x86\Debug\计算器.Form1.resources
+E:\Project\WinForms\计算器\计算器\obj\x86\Debug\计算器.Properties.Resources.resources
+E:\Project\WinForms\计算器\计算器\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Project\WinForms\计算器\计算器\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\zhouyong\Desktop\日常软件\我的资料\programme\Project\WinForms\计算器\计算器\obj\x86\Debug\计算器.exe
+C:\Users\zhouyong\Desktop\日常软件\我的资料\programme\Project\WinForms\计算器\计算器\obj\x86\Debug\计算器.pdb
