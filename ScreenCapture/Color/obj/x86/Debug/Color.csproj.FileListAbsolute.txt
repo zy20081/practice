@@ -1,0 +1,18 @@
+c:\users\administrator\documents\visual studio 2010\Projects\ScreenCapture\Color\bin\Debug\Color.exe
+c:\users\administrator\documents\visual studio 2010\Projects\ScreenCapture\Color\bin\Debug\Color.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\ScreenCapture\Color\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\ScreenCapture\Color\obj\x86\Debug\Color1.Form1.resources
+c:\users\administrator\documents\visual studio 2010\Projects\ScreenCapture\Color\obj\x86\Debug\Color1.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\ScreenCapture\Color\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\ScreenCapture\Color\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\ScreenCapture\Color\obj\x86\Debug\Color.exe
+c:\users\administrator\documents\visual studio 2010\Projects\ScreenCapture\Color\obj\x86\Debug\Color.pdb
+E:\Project\WinForms\ScreenCapture\Color\obj\x86\Debug\Color.exe
+E:\Project\WinForms\ScreenCapture\Color\obj\x86\Debug\Color.pdb
+C:\Users\zhouyong\Desktop\日常软件\我的资料\programme\Project\WinForms\ScreenCapture\Color\obj\x86\Debug\Color.exe
+C:\Users\zhouyong\Desktop\日常软件\我的资料\programme\Project\WinForms\ScreenCapture\Color\obj\x86\Debug\Color.pdb
+C:\Users\zhouyong\Desktop\日常软件\我的资料\programme\Project\WinForms\ScreenCapture\Color\bin\Debug\Color.exe
+C:\Users\zhouyong\Desktop\日常软件\我的资料\programme\Project\WinForms\ScreenCapture\Color\bin\Debug\Color.pdb
+C:\Users\zhouyong\Desktop\日常软件\我的资料\programme\Project\WinForms\ScreenCapture\Color\obj\x86\Debug\Color1.Form1.resources
+C:\Users\zhouyong\Desktop\日常软件\我的资料\programme\Project\WinForms\ScreenCapture\Color\obj\x86\Debug\Color1.Properties.Resources.resources
+C:\Users\zhouyong\Desktop\日常软件\我的资料\programme\Project\WinForms\ScreenCapture\Color\obj\x86\Debug\Color.csproj.GenerateResource.Cache

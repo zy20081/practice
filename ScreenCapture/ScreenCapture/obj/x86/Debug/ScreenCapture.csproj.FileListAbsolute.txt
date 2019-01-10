@@ -1,0 +1,22 @@
+c:\users\administrator\documents\visual studio 2010\Projects\ScreenCapture\ScreenCapture\bin\Debug\ScreenCapture.exe
+c:\users\administrator\documents\visual studio 2010\Projects\ScreenCapture\ScreenCapture\bin\Debug\ScreenCapture.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\ScreenCapture\ScreenCapture\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\ScreenCapture\ScreenCapture\obj\x86\Debug\ScreenCapture.Form1.resources
+c:\users\administrator\documents\visual studio 2010\Projects\ScreenCapture\ScreenCapture\obj\x86\Debug\ScreenCapture.frmScreen.resources
+c:\users\administrator\documents\visual studio 2010\Projects\ScreenCapture\ScreenCapture\obj\x86\Debug\ScreenCapture.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\ScreenCapture\ScreenCapture\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\ScreenCapture\ScreenCapture\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\ScreenCapture\ScreenCapture\obj\x86\Debug\ScreenCapture.exe
+c:\users\administrator\documents\visual studio 2010\Projects\ScreenCapture\ScreenCapture\obj\x86\Debug\ScreenCapture.pdb
+E:\Project\WinForms\ScreenCapture\ScreenCapture\obj\x86\Debug\ScreenCapture.exe
+E:\Project\WinForms\ScreenCapture\ScreenCapture\obj\x86\Debug\ScreenCapture.pdb
+E:\Project\WinForms\ScreenCapture\ScreenCapture\bin\Debug\ScreenCapture.exe
+E:\Project\WinForms\ScreenCapture\ScreenCapture\bin\Debug\ScreenCapture.pdb
+E:\Project\WinForms\ScreenCapture\ScreenCapture\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Project\WinForms\ScreenCapture\ScreenCapture\obj\x86\Debug\ScreenCapture.Form1.resources
+E:\Project\WinForms\ScreenCapture\ScreenCapture\obj\x86\Debug\ScreenCapture.frmScreen.resources
+E:\Project\WinForms\ScreenCapture\ScreenCapture\obj\x86\Debug\ScreenCapture.Properties.Resources.resources
+E:\Project\WinForms\ScreenCapture\ScreenCapture\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Project\WinForms\ScreenCapture\ScreenCapture\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\zhouyong\Desktop\日常软件\我的资料\programme\Project\WinForms\ScreenCapture\ScreenCapture\obj\x86\Debug\ScreenCapture.exe
+C:\Users\zhouyong\Desktop\日常软件\我的资料\programme\Project\WinForms\ScreenCapture\ScreenCapture\obj\x86\Debug\ScreenCapture.pdb
