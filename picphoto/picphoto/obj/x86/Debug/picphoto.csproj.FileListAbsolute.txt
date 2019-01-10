@@ -1,0 +1,31 @@
+C:\Documents and Settings\Administrator\桌面\picphoto\picphoto\bin\Debug\picphoto.exe
+C:\Documents and Settings\Administrator\桌面\picphoto\picphoto\bin\Debug\picphoto.pdb
+C:\Documents and Settings\Administrator\桌面\picphoto\picphoto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\picphoto\picphoto\obj\x86\Debug\picphoto.Form1.resources
+C:\Documents and Settings\Administrator\桌面\picphoto\picphoto\obj\x86\Debug\picphoto.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\picphoto\picphoto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\picphoto\picphoto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\picphoto\picphoto\obj\x86\Debug\picphoto.exe
+C:\Documents and Settings\Administrator\桌面\picphoto\picphoto\obj\x86\Debug\picphoto.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\picphoto\picphoto\obj\x86\Debug\picphoto.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\picphoto\picphoto\obj\x86\Debug\picphoto.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\picphoto\picphoto\bin\Debug\picphoto.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\picphoto\picphoto\bin\Debug\picphoto.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\picphoto\picphoto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\picphoto\picphoto\obj\x86\Debug\picphoto.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\picphoto\picphoto\obj\x86\Debug\picphoto.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\picphoto\picphoto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\picphoto\picphoto\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\asp.net文档\picphoto\picphoto\obj\x86\Debug\picphoto.exe
+G:\asp.net文档\picphoto\picphoto\obj\x86\Debug\picphoto.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WinForms\picphoto\picphoto\obj\x86\Debug\picphoto.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WinForms\picphoto\picphoto\obj\x86\Debug\picphoto.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WinForms\picphoto\picphoto\bin\Debug\picphoto.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WinForms\picphoto\picphoto\bin\Debug\picphoto.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WinForms\picphoto\picphoto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WinForms\picphoto\picphoto\obj\x86\Debug\picphoto.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WinForms\picphoto\picphoto\obj\x86\Debug\picphoto.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WinForms\picphoto\picphoto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WinForms\picphoto\picphoto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\zhouyong\Desktop\日常软件\我的资料\programme\Project\WinForms\picphoto\picphoto\obj\x86\Debug\picphoto.exe
+C:\Users\zhouyong\Desktop\日常软件\我的资料\programme\Project\WinForms\picphoto\picphoto\obj\x86\Debug\picphoto.pdb
