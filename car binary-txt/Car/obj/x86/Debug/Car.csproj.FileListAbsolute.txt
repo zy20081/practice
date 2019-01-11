@@ -1,0 +1,76 @@
+C:\Documents and Settings\Administrator\桌面\Car\Car\bin\Debug\Car.exe
+C:\Documents and Settings\Administrator\桌面\Car\Car\bin\Debug\Car.pdb
+C:\Documents and Settings\Administrator\桌面\Car\Car\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\Car\Car\obj\x86\Debug\Car.Form1.resources
+C:\Documents and Settings\Administrator\桌面\Car\Car\obj\x86\Debug\Car.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\Car\Car\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\Car\Car\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\Car\Car\obj\x86\Debug\Car.exe
+C:\Documents and Settings\Administrator\桌面\Car\Car\obj\x86\Debug\Car.pdb
+C:\Documents and Settings\Administrator\桌面\Car\Car\obj\x86\Debug\Car.User.resources
+E:\Project\WinForms\Car\Car\obj\x86\Debug\Car.exe
+E:\Project\WinForms\Car\Car\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Project\WinForms\Car\Car\obj\x86\Debug\Car.Form1.resources
+E:\Project\WinForms\Car\Car\obj\x86\Debug\Car.Properties.Resources.resources
+E:\Project\WinForms\Car\Car\obj\x86\Debug\Car.User.resources
+E:\Project\WinForms\Car\Car\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Project\WinForms\Car\Car\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Project\WinForms\Car\Car\bin\Debug\Car.exe
+E:\Project\WinForms\Car\Car\bin\Debug\Car.pdb
+E:\Project\WinForms\Car\Car\obj\x86\Debug\Car.pdb
+C:\Users\Administrator\Desktop\Car\Car\obj\x86\Debug\Car.exe
+C:\Users\Administrator\Desktop\Car\Car\obj\x86\Debug\Car.pdb
+C:\Users\Administrator\Desktop\Car\Car\bin\Debug\Car.exe
+C:\Users\Administrator\Desktop\Car\Car\bin\Debug\Car.pdb
+C:\Users\Administrator\Desktop\Car\Car\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Car\Car\obj\x86\Debug\Car.Form1.resources
+C:\Users\Administrator\Desktop\Car\Car\obj\x86\Debug\Car.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Car\Car\obj\x86\Debug\Car.User.resources
+C:\Users\Administrator\Desktop\Car\Car\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\Car\Car\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\Car1\Car\obj\x86\Debug\Car.exe
+C:\Users\Administrator\Desktop\Car1\Car\obj\x86\Debug\Car.pdb
+C:\Users\Administrator\Desktop\car备份 - 副本\Car\obj\x86\Debug\Car.exe
+C:\Users\Administrator\Desktop\car备份 - 副本\Car\obj\x86\Debug\Car.pdb
+C:\Users\Administrator\Desktop\car备份 - 副本\Car\bin\Debug\Car.exe
+C:\Users\Administrator\Desktop\car备份 - 副本\Car\bin\Debug\Car.pdb
+C:\Users\Administrator\Desktop\car备份 - 副本\Car\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\car备份 - 副本\Car\obj\x86\Debug\Car.Form1.resources
+C:\Users\Administrator\Desktop\car备份 - 副本\Car\obj\x86\Debug\Car.Properties.Resources.resources
+C:\Users\Administrator\Desktop\car备份 - 副本\Car\obj\x86\Debug\Car.User.resources
+C:\Users\Administrator\Desktop\car备份 - 副本\Car\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\car备份 - 副本\Car\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\car binary\Car\obj\x86\Debug\Car.exe
+C:\Documents and Settings\Administrator\桌面\car binary\Car\obj\x86\Debug\Car.pdb
+C:\Documents and Settings\Administrator\桌面\car binary\Car\bin\Debug\Car.exe
+C:\Documents and Settings\Administrator\桌面\car binary\Car\bin\Debug\Car.pdb
+C:\Documents and Settings\Administrator\桌面\car binary\Car\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\car binary\Car\obj\x86\Debug\Car.Form1.resources
+C:\Documents and Settings\Administrator\桌面\car binary\Car\obj\x86\Debug\Car.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\car binary\Car\obj\x86\Debug\Car.User.resources
+C:\Documents and Settings\Administrator\桌面\car binary\Car\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\car binary\Car\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\car binary\Car\obj\x86\Debug\Car.exe
+C:\Users\Administrator\Desktop\car binary\Car\obj\x86\Debug\Car.pdb
+C:\Users\Administrator\Desktop\car binary\Car\bin\Debug\Car.exe
+C:\Users\Administrator\Desktop\car binary\Car\bin\Debug\Car.pdb
+C:\Users\Administrator\Desktop\car binary\Car\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\car binary\Car\obj\x86\Debug\Car.Form1.resources
+C:\Users\Administrator\Desktop\car binary\Car\obj\x86\Debug\Car.Properties.Resources.resources
+C:\Users\Administrator\Desktop\car binary\Car\obj\x86\Debug\Car.User.resources
+C:\Users\Administrator\Desktop\car binary\Car\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\car binary\Car\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Project\WinForms\car binary\Car\obj\x86\Debug\Car.exe
+E:\Project\WinForms\car binary\Car\obj\x86\Debug\Car.pdb
+E:\Project\WinForms\car binary\Car\bin\Debug\Car.exe
+E:\Project\WinForms\car binary\Car\bin\Debug\Car.pdb
+E:\Project\WinForms\car binary\Car\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Project\WinForms\car binary\Car\obj\x86\Debug\Car.Form1.resources
+E:\Project\WinForms\car binary\Car\obj\x86\Debug\Car.Properties.Resources.resources
+E:\Project\WinForms\car binary\Car\obj\x86\Debug\Car.User.resources
+E:\Project\WinForms\car binary\Car\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Project\WinForms\car binary\Car\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\programme\Project\WinForms\car binary\Car\obj\x86\Debug\Car.exe
+E:\programme\Project\WinForms\car binary\Car\obj\x86\Debug\Car.pdb
+C:\Users\zhouyong\Desktop\日常软件\我的资料\programme\Project\WinForms\car binary - server\car binary\Car\obj\x86\Debug\Car.exe
+C:\Users\zhouyong\Desktop\日常软件\我的资料\programme\Project\WinForms\car binary - server\car binary\Car\obj\x86\Debug\Car.pdb
