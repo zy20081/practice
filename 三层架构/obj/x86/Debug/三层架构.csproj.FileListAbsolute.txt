@@ -1,0 +1,12 @@
+E:\practice\三层架构\三层架构\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\practice\三层架构\三层架构\obj\x86\Debug\三层架构.Form1.resources
+E:\practice\三层架构\三层架构\obj\x86\Debug\三层架构.Properties.Resources.resources
+E:\practice\三层架构\三层架构\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\practice\三层架构\三层架构\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\practice\三层架构\三层架构\bin\Debug\三层架构.exe.config
+E:\practice\三层架构\三层架构\bin\Debug\三层架构.exe
+E:\practice\三层架构\三层架构\bin\Debug\三层架构.pdb
+E:\practice\三层架构\三层架构\obj\x86\Debug\三层架构.exe
+E:\practice\三层架构\三层架构\obj\x86\Debug\三层架构.pdb
+C:\Users\zhouyong\Desktop\日常软件\我的资料\programme\practice\三层架构\三层架构\bin\Debug\三层架构.exe.config
+C:\Users\zhouyong\Desktop\日常软件\我的资料\programme\practice\三层架构\三层架构\obj\x86\Debug\三层架构.exe
